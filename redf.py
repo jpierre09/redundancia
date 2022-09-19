@@ -19,10 +19,7 @@ def principal():
                 print(slave_ping)
                 if slave_ping == 0:
                     print('change ip')
-
-                
-            
-
+                    
 principal()
 
 #print(main.gate1)
